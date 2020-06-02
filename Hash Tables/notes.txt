@@ -1,0 +1,9 @@
+ ---------- Hash Tables ----------
+ // A data structure that allows us to store key-value pairs
+ * time complexity
+  - lookup 0(1)
+  - push O(1)
+  - insert O(1)
+  - delete O(1)
+
+  
