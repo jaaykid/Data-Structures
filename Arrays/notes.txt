@@ -1,0 +1,20 @@
+ ---------- Arrays  ----------
+  // Arrays organized items sequentially
+  - smallest footprint of all data structures
+  * time complexity
+  - Look up / Average O(1) Worst O(1)
+  - Push / Average O(1) Worst O(n)
+  - Insert / Average O(n) Worst O(n)
+  - Delete / Average O(n) Worst O(n)
+
+  // Pros 
+  - Fast look up 
+  - Fast push/pop 
+  - Ordered
+
+  // Cons 
+  - Slow inserts 
+  - Slow deletes 
+  - Fixed Size *if using static arrays
+
+  
